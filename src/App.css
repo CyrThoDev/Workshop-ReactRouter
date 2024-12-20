@@ -1,0 +1,16 @@
+nav {
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+	color: blue;
+}
+
+h1 {
+	color: green;
+	text-align: center;
+}
+
+h2 {
+	color: orange;
+	text-align: center;
+}
